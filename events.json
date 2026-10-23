@@ -1,0 +1,17 @@
+{
+  "app": "my-mini-painting-challenge",
+  "v": 1,
+  "events": [
+    {
+      "id": "tone-pro-weekend-2026-10-24",
+      "name": "Tone Pro weekend",
+      "desc": "Painted with us at the shop",
+      "kind": "code",
+      "start": "2026-10-24",
+      "end": "2026-10-26",
+      "img": "events/tone-pro-weekend-2026-10-24.webp",
+      "published": "2026-10-23T15:38:25.193Z",
+      "hash": "cd9cc7f31af6fbf744f134e0b9e90cd76df2b1a2e2053020af71b69d7f258e0c"
+    }
+  ]
+}
