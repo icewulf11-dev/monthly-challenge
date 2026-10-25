@@ -1,0 +1,16 @@
+{
+  "app": "my-mini-painting-challenge",
+  "v": 1,
+  "releases": [
+    {
+      "id": "2026-10-25-tone-pro-challenge",
+      "title": "Tone pro challenge!",
+      "start": "2026-10-25",
+      "end": "2026-11-21",
+      "ranges": [
+        "tonepro"
+      ],
+      "published": "2026-10-25T05:51:23.526Z"
+    }
+  ]
+}
