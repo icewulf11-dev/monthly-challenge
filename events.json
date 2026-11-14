@@ -19,8 +19,19 @@
       "kind": "roll",
       "start": "2026-11-06",
       "end": "2026-11-09",
-      "img": "events/launch-day-legend-2026-11-06.webp",
-      "published": "2026-11-06T09:59:04.863Z"
+      "hash": "",
+      "img": "events/launch-day-legend-2026-11-06.webp"
+    },
+    {
+      "id": "bonfire-glow-2026-11-14",
+      "name": "Bonfire glow",
+      "desc": "Rolled a Warm palette this weekend",
+      "kind": "code",
+      "start": "2026-11-14",
+      "end": "2026-11-16",
+      "img": "events/bonfire-glow-2026-11-14.webp",
+      "published": "2026-11-14T11:25:54.906Z",
+      "hash": "30039c496fb30dfe5bfc6c082306736bda2d8c3d9abf61a120fe6e625dae5bc7"
     }
   ]
 }
