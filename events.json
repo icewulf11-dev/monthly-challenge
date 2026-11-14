@@ -29,9 +29,19 @@
       "kind": "code",
       "start": "2026-11-14",
       "end": "2026-11-16",
-      "img": "events/bonfire-glow-2026-11-14.webp",
-      "published": "2026-11-14T11:25:54.906Z",
-      "hash": "30039c496fb30dfe5bfc6c082306736bda2d8c3d9abf61a120fe6e625dae5bc7"
+      "hash": "30039c496fb30dfe5bfc6c082306736bda2d8c3d9abf61a120fe6e625dae5bc7",
+      "img": "events/bonfire-glow-2026-11-14.webp"
+    },
+    {
+      "id": "frost-night-2026-11-14",
+      "name": "Frost Night",
+      "desc": "Rolled a Cold pallette this weekend",
+      "kind": "code",
+      "start": "2026-11-14",
+      "end": "2026-11-16",
+      "img": "events/frost-night-2026-11-14.webp",
+      "published": "2026-11-14T11:26:35.087Z",
+      "hash": "34c4593844cb4aa0ed73d845eb05a63613eeffaaf1ec9f7151bac4cfa973197a"
     }
   ]
 }
